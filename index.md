@@ -18,15 +18,16 @@ In this project, I explored the data from the COMP110 class to understand the re
 
 ## 2. Visualizations
 ### Visualization 1: [Pre-Lesson Video Effectiveness]
-![Description of first chart](imgs/chart1.png)
+![Description of first chart]<img src="finalprojectunc/static/imgs/chart1.png" alt="Chart 1. "  width="500"/>
+
 *This chart shows how the more videos watched by students and the more optional work, the more effective they become.*
 
 ### Visualization 2: [Optional Work Impact on Class Understanding]
-![Description of second chart](imgs/chart2.png)
+![Description of second chart]<img src="finalprojectunc/static/imgs/chart2.png" alt="Chart 2. "  width="500"/>
 *This chart shows how students who use the videos have a similar understanding of the class and what they are learning.*
 
 ### Visualization 3: [Grade That Benefits from Optional Work Most]
-![Description of third chart](imgs/chart3/png)
+![Description of third chart]<img src="finalprojectunc/static/imgs/chart3.png" alt="Chart 3. "  width="500"/>
 *This chart shows how the younger students not yet accustomed to college like the optional practice and it helps to provide them with guidance throughtout the class to ensure that they do their best.*
 
 ---
