@@ -24,10 +24,12 @@ In this project, I explored the data from the COMP110 class to understand the re
 
 ### Visualization 2: [Optional Work Impact on Class Understanding]
 ![Description of second chart]<img src="finalprojectunc/static/imgs/chart2.png" alt="Chart 2. "  width="500"/>
+
 *This chart shows how students who use the videos have a similar understanding of the class and what they are learning.*
 
 ### Visualization 3: [Grade That Benefits from Optional Work Most]
 ![Description of third chart]<img src="finalprojectunc/static/imgs/chart3.png" alt="Chart 3. "  width="500"/>
+
 *This chart shows how the younger students not yet accustomed to college like the optional practice and it helps to provide them with guidance throughtout the class to ensure that they do their best.*
 
 ---
